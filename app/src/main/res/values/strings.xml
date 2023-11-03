@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo1021</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="player">account time</string>
+    <string name="offer">offer</string>
+</resources>
